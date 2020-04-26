@@ -19,7 +19,7 @@ pipeline {
           }
         }
 
-        stage('') {
+        stage('error') {
           steps {
             sh '''<!doctype html>
     <html>
