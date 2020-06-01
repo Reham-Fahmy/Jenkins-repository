@@ -19,9 +19,7 @@ pipeline {
           }
         }
 
-        stage('error') {
-          steps {
-            sh ' '
+        
           }
         }
 
